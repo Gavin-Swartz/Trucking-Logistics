@@ -1,53 +1,53 @@
 city,state,lat,long
-"Omaha", NE, 41.2565, 95.9345
-"Lincoln", NE, 40.8136, 96.7026
-"Grand Island", NE, 40.9264, 98.3420
-"Kearney", NE, 40.6993, 99.0817
-"Columbus", NE, 41.4303, 97.3594
-"Bellevue", NE, 41.1515, 95.9177
-"Papillion", NE, 41.1545, 96.0430
-"Plattsmouth", NE, 41.0111, 95.8808
-"Des Moines", IA
-"Iowa City", IA
-"Cedar Rapids", IA
-"Davenport", IA
-"Sioux City", IA
-"Waterloo", IA
-"Ankeny", IA
-"Ames", IA
-"Council Bluffs", IA
-"Dubuque", IA
-"Urbandale", IA
-"Sioux Falls", SD
-"Pierre", SD
-"Rapid City", SD
-"Deadwood", SD
-"Aberdeen", SD
-"Brookings", SD
-"Watertown", SD
-"Yankton", SD
-"Wichita", KS
-"Overland Park", KS
-"Kansas City", KS
-"Olathe", KS
-"Topeka", KS
-"Lawrence", KS
-"Shawnee", KS
-"Lenexa", KS
-"Manhattan", KS
-"Salina", KS
-"Dodge City", KS
-"Kansas City", MO
-"St Louis", MO
-"Springfield", MO
-"Columbia", MO
-"Independence", MO
-"St Joseph", MO
-"St Peters", MO
-"Blue Springs", MO
-"Joplin", MO
-"Jefferson City", MO
-"Wildwood", MO
-"Ozark", MO
+"Omaha",NE,41.2565,95.9345
+"Lincoln",NE,40.8136,96.7026
+"Grand Island",NE,40.9264,98.3420
+"Kearney",NE,40.6993,99.0817
+"Columbus",NE,41.4303,97.3594
+"Bellevue",NE,41.1515,95.9177
+"Papillion",NE,41.1545,96.0430
+"Plattsmouth",NE,41.0111,95.8808
+"Des Moines",IA
+"Iowa City",IA
+"Cedar Rapids",IA
+"Davenport",IA
+"Sioux City",IA
+"Waterloo",IA
+"Ankeny",IA
+"Ames",IA
+"Council Bluffs",IA
+"Dubuque",IA
+"Urbandale",IA
+"Sioux Falls",SD
+"Pierre",SD
+"Rapid City",SD
+"Deadwood",SD
+"Aberdeen",SD
+"Brookings",SD
+"Watertown",SD
+"Yankton",SD
+"Wichita",KS
+"Overland Park",KS
+"Kansas City",KS
+"Olathe",KS
+"Topeka",KS
+"Lawrence",KS
+"Shawnee",KS
+"Lenexa",KS
+"Manhattan",KS
+"Salina",KS
+"Dodge City",KS
+"Kansas City",MO
+"St Louis",MO
+"Springfield",MO
+"Columbia",MO
+"Independence",MO
+"St Joseph",MO
+"St Peters",MO
+"Blue Springs",MO
+"Joplin",MO
+"Jefferson City",MO
+"Wildwood",MO
+"Ozark",MO
 
 
