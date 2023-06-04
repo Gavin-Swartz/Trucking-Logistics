@@ -7,25 +7,25 @@ city,state,lat,long
 "Bellevue",NE,41.1515,95.9177
 "Papillion",NE,41.1545,96.0430
 "Plattsmouth",NE,41.0111,95.8808
-"Des Moines",IA
-"Iowa City",IA
-"Cedar Rapids",IA
-"Davenport",IA
-"Sioux City",IA
-"Waterloo",IA
-"Ankeny",IA
-"Ames",IA
-"Council Bluffs",IA
-"Dubuque",IA
-"Urbandale",IA
-"Sioux Falls",SD
-"Pierre",SD
-"Rapid City",SD
-"Deadwood",SD
-"Aberdeen",SD
-"Brookings",SD
-"Watertown",SD
-"Yankton",SD
+"Des Moines",IA,41.5868,93.6250
+"Iowa City",IA,41.6578,91.5346
+"Cedar Rapids",IA,41.9779,91.6656
+"Davenport",IA,41.5236,90.5776
+"Sioux City",IA,42.4963,96.4049
+"Waterloo",IA,43.4643,80.5204
+"Ankeny",IA,41.7318,93.6001
+"Ames",IA,42.0308,93.6319
+"Council Bluffs",IA,41.2619,95.8608
+"Dubuque",IA,42.5063,90.6677
+"Urbandale",IA,41.6294,93.7607
+"Sioux Falls",SD,43.5460,96.7313
+"Pierre",SD,44.3668,100.3538
+"Rapid City",SD,44.0805,103.2310
+"Deadwood",SD,44.3767,103.7296
+"Aberdeen",SD,45.4647,98.4865
+"Brookings",SD,44.3114,96.7984
+"Watertown",SD,44.8994,97.1151
+"Yankton",SD,42.8711,97.3973
 "Wichita",KS
 "Overland Park",KS
 "Kansas City",KS
