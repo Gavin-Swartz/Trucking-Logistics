@@ -26,28 +26,27 @@ city,state,lat,long
 "Brookings",SD,44.3114,96.7984
 "Watertown",SD,44.8994,97.1151
 "Yankton",SD,42.8711,97.3973
-"Wichita",KS
-"Overland Park",KS
-"Kansas City",KS
-"Olathe",KS
-"Topeka",KS
-"Lawrence",KS
-"Shawnee",KS
-"Lenexa",KS
-"Manhattan",KS
-"Salina",KS
-"Dodge City",KS
-"Kansas City",MO
-"St Louis",MO
-"Springfield",MO
-"Columbia",MO
-"Independence",MO
-"St Joseph",MO
-"St Peters",MO
-"Blue Springs",MO
-"Joplin",MO
-"Jefferson City",MO
-"Wildwood",MO
-"Ozark",MO
+"Wichita",KS,37.6872,97.3301
+"Overland Park",KS,38.9822,94.6708
+"Olathe",KS,38.8814,94.8191
+"Topeka",KS,39.0473,95.6752
+"Lawrence",KS,38.9717,95.2353
+"Shawnee",KS,39.0228,94.7152
+"Lenexa",KS,38.9536,94.7336
+"Manhattan",KS,39.1836,96.5717
+"Salina",KS,38.8403,97.6114
+"Dodge City",KS,37.7528,100.0171
+"Kansas City",MO,39.0997,94.5786
+"St Louis",MO,38.6270,90.1994
+"Springfield",MO,37.2090,93.2923
+"Columbia",MO,38.9517,92.3341
+"Independence",MO,39.0911,94.4155
+"St Joseph",MO,39.7675,94.8467
+"St Peters",MO,38.7875,90.6299
+"Blue Springs",MO,39.0170,94.2816
+"Joplin",MO,37.0842,94.5133
+"Jefferson City",MO,38.5767,92.1735
+"Wildwood",MO,38.5828,90.6629
+"Ozark",MO,37.0209,93.2060
 
 
