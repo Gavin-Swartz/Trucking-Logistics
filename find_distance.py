@@ -49,11 +49,10 @@ for starting_location in location_information:
         first_city_name = starting_location[0]
         second_city_name = ending_location[0]
 
-        if first_city_name != second_city_name:
-            start.append(first_city_name)
-            end.append(second_city_name)
-            miles = geodesic(starting_location[1], ending_location[1]).miles
-            distance.append(miles)
+        start.append(first_city_name)
+        end.append(second_city_name)
+        miles = geodesic(starting_location[1], ending_location[1]).miles
+        distance.append(miles)
 
 
 # Enter into distances.csv

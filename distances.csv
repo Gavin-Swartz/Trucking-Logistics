@@ -1,4 +1,5 @@
 Starting Location,Ending Location,Distance
+Omaha,Omaha,0.0
 Omaha,Lincoln,50.44616406747337
 Omaha,Grand Island,127.73102900738604
 Omaha,Kearney,169.0087735992516
@@ -48,6 +49,7 @@ Omaha,Jefferson City,272.1710517618331
 Omaha,Wildwood,335.24047492599084
 Omaha,Ozark,326.84539173904005
 Lincoln,Omaha,50.44616406747337
+Lincoln,Lincoln,0.0
 Lincoln,Grand Island,86.22540256216783
 Lincoln,Kearney,125.07912020470218
 Lincoln,Columbus,54.6416604883264
@@ -97,6 +99,7 @@ Lincoln,Wildwood,356.67067107617464
 Lincoln,Ozark,322.3516210693974
 Grand Island,Omaha,127.73102900738604
 Grand Island,Lincoln,86.22540256216783
+Grand Island,Grand Island,0.0
 Grand Island,Kearney,41.826427730281
 Grand Island,Columbus,61.91669071759271
 Grand Island,Bellevue,127.61035419051414
@@ -146,6 +149,7 @@ Grand Island,Ozark,385.94945728845306
 Kearney,Omaha,169.0087735992516
 Kearney,Lincoln,125.07912020470218
 Kearney,Grand Island,41.826427730281
+Kearney,Kearney,0.0
 Kearney,Columbus,103.127803775737
 Kearney,Bellevue,168.5017112438897
 Kearney,Papillion,162.09923689627354
@@ -195,6 +199,7 @@ Columbus,Omaha,75.06805924533482
 Columbus,Lincoln,54.6416604883264
 Columbus,Grand Island,61.91669071759271
 Columbus,Kearney,103.127803775737
+Columbus,Columbus,0.0
 Columbus,Bellevue,77.46473361180892
 Columbus,Papillion,71.1088479034163
 Columbus,Plattsmouth,82.29228620287955
@@ -244,6 +249,7 @@ Bellevue,Lincoln,47.205132226877836
 Bellevue,Grand Island,127.61035419051414
 Bellevue,Kearney,168.5017112438897
 Bellevue,Columbus,77.46473361180892
+Bellevue,Bellevue,0.0
 Bellevue,Papillion,6.538687648720065
 Bellevue,Plattsmouth,9.878260720907232
 Bellevue,Des Moines,122.91228037536273
@@ -293,6 +299,7 @@ Papillion,Grand Island,121.13955672296632
 Papillion,Kearney,162.09923689627354
 Papillion,Columbus,71.1088479034163
 Papillion,Bellevue,6.538687648720065
+Papillion,Papillion,0.0
 Papillion,Plattsmouth,13.024860086894472
 Papillion,Des Moines,129.18704667520703
 Papillion,Iowa City,236.7751257433843
@@ -342,6 +349,7 @@ Plattsmouth,Kearney,169.0706909737512
 Plattsmouth,Columbus,82.29228620287955
 Plattsmouth,Bellevue,9.878260720907232
 Plattsmouth,Papillion,13.024860086894472
+Plattsmouth,Plattsmouth,0.0
 Plattsmouth,Des Moines,123.93240410541331
 Plattsmouth,Iowa City,230.39933338101164
 Plattsmouth,Cedar Rapids,228.6334970344026
@@ -391,6 +399,7 @@ Des Moines,Columbus,194.00867274413991
 Des Moines,Bellevue,122.91228037536273
 Des Moines,Papillion,129.18704667520703
 Des Moines,Plattsmouth,123.93240410541331
+Des Moines,Des Moines,0.0
 Des Moines,Iowa City,108.35825153804073
 Des Moines,Cedar Rapids,104.74951792470475
 Des Moines,Davenport,158.0232061496268
@@ -440,6 +449,7 @@ Iowa City,Bellevue,230.37597203273648
 Iowa City,Papillion,236.7751257433843
 Iowa City,Plattsmouth,230.39933338101164
 Iowa City,Des Moines,108.35825153804073
+Iowa City,Iowa City,0.0
 Iowa City,Cedar Rapids,23.103931862170914
 Iowa City,Davenport,50.43913198573622
 Iowa City,Sioux City,256.98509509448223
@@ -489,6 +499,7 @@ Cedar Rapids,Papillion,233.85548669533063
 Cedar Rapids,Plattsmouth,228.6334970344026
 Cedar Rapids,Des Moines,104.74951792470475
 Cedar Rapids,Iowa City,23.103931862170914
+Cedar Rapids,Cedar Rapids,0.0
 Cedar Rapids,Davenport,64.37925887776386
 Cedar Rapids,Sioux City,245.66187880893125
 Cedar Rapids,Waterloo,575.9862596968836
@@ -538,6 +549,7 @@ Davenport,Plattsmouth,278.33383688806185
 Davenport,Des Moines,158.0232061496268
 Davenport,Iowa City,50.43913198573622
 Davenport,Cedar Rapids,64.37925887776386
+Davenport,Davenport,0.0
 Davenport,Sioux City,307.30133807914365
 Davenport,Waterloo,530.5335808940379
 Davenport,Ankeny,157.15517863226142
@@ -587,6 +599,7 @@ Sioux City,Des Moines,156.177851241659
 Sioux City,Iowa City,256.98509509448223
 Sioux City,Cedar Rapids,245.66187880893125
 Sioux City,Davenport,307.30133807914365
+Sioux City,Sioux City,0.0
 Sioux City,Waterloo,806.6154791871217
 Sioux City,Ankeny,153.48098190685008
 Sioux City,Ames,145.74434615034306
@@ -636,6 +649,7 @@ Waterloo,Iowa City,575.2136654045837
 Waterloo,Cedar Rapids,575.9862596968836
 Waterloo,Davenport,530.5335808940379
 Waterloo,Sioux City,806.6154791871217
+Waterloo,Waterloo,0.0
 Waterloo,Ankeny,676.9070208668334
 Waterloo,Ames,673.6091848072965
 Waterloo,Council Bluffs,798.5981979908985
@@ -685,6 +699,7 @@ Ankeny,Cedar Rapids,101.24857607280777
 Ankeny,Davenport,157.15517863226142
 Ankeny,Sioux City,153.48098190685008
 Ankeny,Waterloo,676.9070208668334
+Ankeny,Ankeny,0.0
 Ankeny,Ames,20.700951627791053
 Ankeny,Council Bluffs,121.6915101242439
 Ankeny,Dubuque,159.87161337720977
@@ -734,6 +749,7 @@ Ames,Davenport,161.6123385333576
 Ames,Sioux City,145.74434615034306
 Ames,Waterloo,673.6091848072965
 Ames,Ankeny,20.700951627791053
+Ames,Ames,0.0
 Ames,Council Bluffs,126.99137154299437
 Ames,Dubuque,155.45168108261444
 Ames,Urbandale,28.48948526470668
@@ -783,6 +799,7 @@ Council Bluffs,Sioux City,89.69636232154132
 Council Bluffs,Waterloo,798.5981979908985
 Council Bluffs,Ankeny,121.6915101242439
 Council Bluffs,Ames,126.99137154299437
+Council Bluffs,Council Bluffs,0.0
 Council Bluffs,Dubuque,281.2080024078497
 Council Bluffs,Urbandale,111.95580729471827
 Council Bluffs,Sioux Falls,163.8197929470186
@@ -832,6 +849,7 @@ Dubuque,Waterloo,518.160645056162
 Dubuque,Ankeny,159.87161337720977
 Dubuque,Ames,155.45168108261444
 Dubuque,Council Bluffs,281.2080024078497
+Dubuque,Dubuque,0.0
 Dubuque,Urbandale,170.17379885105674
 Dubuque,Sioux Falls,315.2906995138201
 Dubuque,Pierre,503.580044224446
@@ -881,6 +899,7 @@ Urbandale,Ankeny,10.90795497597819
 Urbandale,Ames,28.48948526470668
 Urbandale,Council Bluffs,111.95580729471827
 Urbandale,Dubuque,170.17379885105674
+Urbandale,Urbandale,0.0
 Urbandale,Sioux Falls,201.11721769442056
 Urbandale,Pierre,383.6295349889571
 Urbandale,Rapid City,509.48964260684613
@@ -930,6 +949,7 @@ Sioux Falls,Ames,189.10642245420638
 Sioux Falls,Council Bluffs,163.8197929470186
 Sioux Falls,Dubuque,315.2906995138201
 Sioux Falls,Urbandale,201.11721769442056
+Sioux Falls,Sioux Falls,0.0
 Sioux Falls,Pierre,189.3292428058646
 Sioux Falls,Rapid City,326.94636418962574
 Sioux Falls,Deadwood,353.5726928470925
@@ -979,6 +999,7 @@ Pierre,Council Bluffs,313.0688742789723
 Pierre,Dubuque,503.580044224446
 Pierre,Urbandale,383.6295349889571
 Pierre,Sioux Falls,189.3292428058646
+Pierre,Pierre,0.0
 Pierre,Rapid City,144.2070149988365
 Pierre,Deadwood,167.17803423511694
 Pierre,Aberdeen,118.91295169618769
@@ -1028,6 +1049,7 @@ Rapid City,Dubuque,642.1018426829492
 Rapid City,Urbandale,509.48964260684613
 Rapid City,Sioux Falls,326.94636418962574
 Rapid City,Pierre,144.2070149988365
+Rapid City,Rapid City,0.0
 Rapid City,Deadwood,32.10880414208667
 Rapid City,Aberdeen,252.12950056722593
 Rapid City,Brookings,319.8448944148941
@@ -1077,6 +1099,7 @@ Deadwood,Urbandale,539.0604725506572
 Deadwood,Sioux Falls,353.5726928470925
 Deadwood,Pierre,167.17803423511694
 Deadwood,Rapid City,32.10880414208667
+Deadwood,Deadwood,0.0
 Deadwood,Aberdeen,267.91946332424374
 Deadwood,Brookings,343.3606398810717
 Deadwood,Watertown,327.9969134895035
@@ -1126,6 +1149,7 @@ Aberdeen,Sioux Falls,158.33695247936288
 Aberdeen,Pierre,118.91295169618769
 Aberdeen,Rapid City,252.12950056722593
 Aberdeen,Deadwood,267.91946332424374
+Aberdeen,Aberdeen,0.0
 Aberdeen,Brookings,114.92577670313875
 Aberdeen,Watertown,77.52077914830355
 Aberdeen,Yankton,187.06964928961972
@@ -1175,6 +1199,7 @@ Brookings,Pierre,176.2087458800054
 Brookings,Rapid City,319.8448944148941
 Brookings,Deadwood,343.3606398810717
 Brookings,Aberdeen,114.92577670313875
+Brookings,Brookings,0.0
 Brookings,Watertown,43.50271623555776
 Brookings,Yankton,103.87520774373469
 Brookings,Wichita,457.9495758723907
@@ -1224,6 +1249,7 @@ Watertown,Rapid City,307.4473362023034
 Watertown,Deadwood,327.9969134895035
 Watertown,Aberdeen,77.52077914830355
 Watertown,Brookings,43.50271623555776
+Watertown,Watertown,0.0
 Watertown,Yankton,140.74188195372787
 Watertown,Wichita,497.8344626082199
 Watertown,Overland Park,427.3115227541262
@@ -1273,6 +1299,7 @@ Yankton,Deadwood,334.0467600600647
 Yankton,Aberdeen,187.06964928961972
 Yankton,Brookings,103.87520774373469
 Yankton,Watertown,140.74188195372787
+Yankton,Yankton,0.0
 Yankton,Wichita,357.69186383622554
 Yankton,Overland Park,303.8892012591801
 Yankton,Olathe,306.5999221975786
@@ -1322,6 +1349,7 @@ Wichita,Aberdeen,540.0644537874618
 Wichita,Brookings,457.9495758723907
 Wichita,Watertown,497.8344626082199
 Wichita,Yankton,357.69186383622554
+Wichita,Wichita,0.0
 Wichita,Overland Park,169.84356054525878
 Wichita,Olathe,159.4260188160165
 Wichita,Topeka,129.9052212655885
@@ -1371,6 +1399,7 @@ Overland Park,Brookings,383.8837720320553
 Overland Park,Watertown,427.3115227541262
 Overland Park,Yankton,303.8892012591801
 Overland Park,Wichita,169.84356054525878
+Overland Park,Overland Park,0.0
 Overland Park,Olathe,10.592063405527899
 Overland Park,Topeka,54.23870774303569
 Overland Park,Lawrence,30.40386341847137
@@ -1420,6 +1449,7 @@ Olathe,Watertown,431.83645920488846
 Olathe,Yankton,306.5999221975786
 Olathe,Wichita,159.4260188160165
 Olathe,Overland Park,10.592063405527899
+Olathe,Olathe,0.0
 Olathe,Topeka,47.50341069542457
 Olathe,Lawrence,23.274979575956966
 Olathe,Shawnee,11.245411555796668
@@ -1469,6 +1499,7 @@ Topeka,Yankton,278.7984693630805
 Topeka,Wichita,129.9052212655885
 Topeka,Overland Park,54.23870774303569
 Topeka,Olathe,47.50341069542457
+Topeka,Topeka,0.0
 Topeka,Lawrence,24.24293077142409
 Topeka,Shawnee,51.675965210732606
 Topeka,Lenexa,51.09357043485568
@@ -1518,6 +1549,7 @@ Lawrence,Wichita,144.22499240793272
 Lawrence,Overland Park,30.40386341847137
 Lawrence,Olathe,23.274979575956966
 Lawrence,Topeka,24.24293077142409
+Lawrence,Lawrence,0.0
 Lawrence,Shawnee,28.21758166137745
 Lawrence,Lenexa,27.048072343006353
 Lawrence,Manhattan,73.32688110695214
@@ -1567,6 +1599,7 @@ Shawnee,Overland Park,3.6817190923979943
 Shawnee,Olathe,11.245411555796668
 Shawnee,Topeka,51.675965210732606
 Shawnee,Lawrence,28.21758166137745
+Shawnee,Shawnee,0.0
 Shawnee,Lenexa,4.875230041121977
 Shawnee,Manhattan,100.39760658198165
 Shawnee,Salina,156.54454961463836
@@ -1616,6 +1649,7 @@ Lenexa,Olathe,6.784848029309613
 Lenexa,Topeka,51.09357043485568
 Lenexa,Lawrence,27.048072343006353
 Lenexa,Shawnee,4.875230041121977
+Lenexa,Lenexa,0.0
 Lenexa,Manhattan,100.10749242016401
 Lenexa,Salina,155.31847510730137
 Lenexa,Dodge City,298.62787865795934
@@ -1665,6 +1699,7 @@ Manhattan,Topeka,49.08621917592152
 Manhattan,Lawrence,73.32688110695214
 Manhattan,Shawnee,100.39760658198165
 Manhattan,Lenexa,100.10749242016401
+Manhattan,Manhattan,0.0
 Manhattan,Salina,60.75917696870647
 Manhattan,Dodge City,211.27760942435978
 Manhattan,Kansas City,107.22279823876463
@@ -1714,6 +1749,7 @@ Salina,Lawrence,128.38441472852722
 Salina,Shawnee,156.54454961463836
 Salina,Lenexa,155.31847510730137
 Salina,Manhattan,60.75917696870647
+Salina,Salina,0.0
 Salina,Dodge City,150.74210067699613
 Salina,Kansas City,164.28533825241655
 Salina,St Louis,400.61847777305354
@@ -1763,6 +1799,7 @@ Dodge City,Shawnee,300.80946227914563
 Dodge City,Lenexa,298.62787865795934
 Dodge City,Manhattan,211.27760942435978
 Dodge City,Salina,150.74210067699613
+Dodge City,Dodge City,0.0
 Dodge City,Kansas City,309.30757162122865
 Dodge City,St Louis,537.5587121519485
 Dodge City,Springfield,371.4042031191692
@@ -1812,6 +1849,7 @@ Kansas City,Lenexa,13.081617112131985
 Kansas City,Manhattan,107.22279823876463
 Kansas City,Salina,164.28533825241655
 Kansas City,Dodge City,309.30757162122865
+Kansas City,Kansas City,0.0
 Kansas City,St Louis,238.38850807762907
 Kansas City,Springfield,148.0261973434585
 Kansas City,Columbia,121.19892761930828
@@ -1861,6 +1899,7 @@ St Louis,Manhattan,345.5254763188164
 St Louis,Salina,400.61847777305354
 St Louis,Dodge City,537.5587121519485
 St Louis,Kansas City,238.38850807762907
+St Louis,St Louis,0.0
 St Louis,Springfield,195.22949745876733
 St Louis,Columbia,117.39802580490334
 St Louis,Independence,229.61090618067968
@@ -1910,6 +1949,7 @@ Springfield,Salina,261.08550862234387
 Springfield,Dodge City,371.4042031191692
 Springfield,Kansas City,148.0261973434585
 Springfield,St Louis,195.22949745876733
+Springfield,Springfield,0.0
 Springfield,Columbia,131.05422810943787
 Springfield,Independence,143.50092423663978
 Springfield,St Joseph,195.55260961313573
@@ -1959,6 +1999,7 @@ Columbia,Dodge City,425.27284768843754
 Columbia,Kansas City,121.19892761930828
 Columbia,St Louis,117.39802580490334
 Columbia,Springfield,131.05422810943787
+Columbia,Columbia,0.0
 Columbia,Independence,112.41160752041878
 Columbia,St Joseph,145.84684246794387
 Columbia,St Peters,92.59431278080285
@@ -2008,6 +2049,7 @@ Independence,Kansas City,8.787454364175634
 Independence,St Louis,229.61090618067968
 Independence,Springfield,143.50092423663978
 Independence,Columbia,112.41160752041878
+Independence,Independence,0.0
 Independence,St Joseph,52.05370447294168
 Independence,St Peters,204.99924520829396
 Independence,Blue Springs,8.831578829905299
@@ -2057,6 +2099,7 @@ St Joseph,St Louis,261.52998160967087
 St Joseph,Springfield,195.55260961313573
 St Joseph,Columbia,145.84684246794387
 St Joseph,Independence,52.05370447294168
+St Joseph,St Joseph,0.0
 St Joseph,St Peters,235.95286452220543
 St Joseph,Blue Springs,59.96287982524486
 St Joseph,Joplin,185.96228808634893
@@ -2106,6 +2149,7 @@ St Peters,Springfield,181.55359259774696
 St Peters,Columbia,92.59431278080285
 St Peters,Independence,204.99924520829396
 St Peters,St Joseph,235.95286452220543
+St Peters,St Peters,0.0
 St Peters,Blue Springs,197.45291017609435
 St Peters,Joplin,242.45100854695644
 St Peters,Jefferson City,84.7142027300625
@@ -2155,6 +2199,7 @@ Blue Springs,Columbia,104.94616814990218
 Blue Springs,Independence,8.831578829905299
 Blue Springs,St Joseph,59.96287982524486
 Blue Springs,St Peters,197.45291017609435
+Blue Springs,Blue Springs,0.0
 Blue Springs,Joplin,133.90386613563365
 Blue Springs,Jefferson City,117.77683787825113
 Blue Springs,Wildwood,197.60068782314195
@@ -2204,6 +2249,7 @@ Joplin,Independence,138.5206228102534
 Joplin,St Joseph,185.96228808634893
 Joplin,St Peters,242.45100854695644
 Joplin,Blue Springs,133.90386613563365
+Joplin,Joplin,0.0
 Joplin,Jefferson City,164.2375691913098
 Joplin,Wildwood,234.58046559488128
 Joplin,Ozark,72.38719625159419
@@ -2253,6 +2299,7 @@ Jefferson City,St Joseph,165.37357008421372
 Jefferson City,St Peters,84.7142027300625
 Jefferson City,Blue Springs,117.77683787825113
 Jefferson City,Joplin,164.2375691913098
+Jefferson City,Jefferson City,0.0
 Jefferson City,Wildwood,81.79025216677658
 Jefferson City,Ozark,121.26571498690888
 Wildwood,Omaha,335.24047492599084
@@ -2302,6 +2349,7 @@ Wildwood,St Peters,14.232088629018453
 Wildwood,Blue Springs,197.60068782314195
 Wildwood,Joplin,234.58046559488128
 Wildwood,Jefferson City,81.79025216677658
+Wildwood,Wildwood,0.0
 Wildwood,Ozark,175.97279753021925
 Ozark,Omaha,326.84539173904005
 Ozark,Lincoln,322.3516210693974
@@ -2351,3 +2399,4 @@ Ozark,Blue Springs,149.65506010640735
 Ozark,Joplin,72.38719625159419
 Ozark,Jefferson City,121.26571498690888
 Ozark,Wildwood,175.97279753021925
+Ozark,Ozark,0.0
