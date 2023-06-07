@@ -10,5 +10,10 @@ def add_shipments():
     pass
 
 
+def add_trucks():
+    pass
+
+
 intro_menu()
 add_shipments()
+add_trucks()

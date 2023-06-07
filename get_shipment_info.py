@@ -1,5 +1,8 @@
 import csv
 
+start_locations = []
+end_locations = []
+
 with open('shipments.csv') as shipments_file:
     csv_reader = csv.reader(shipments_file, delimiter=',')
     top_line = True
@@ -8,5 +11,5 @@ with open('shipments.csv') as shipments_file:
         if top_line:
             top_line = False
         else:
-            print(row[0])
-            print(row[1])
+            start_locations.append(row[0])
+            end_locations.append(row[1])
