@@ -17,10 +17,10 @@ with open('shipments.csv') as shipments_file:
 
 # Get distances of each shipment
 with open('distances.csv') as distances_file:
-    csv_reader = csv.reader(distances_file, delimiter=',')
+    distances_csv_reader = csv.reader(distances_file, delimiter=',')
     top_line = True
 
-    for row in csv_reader:
+    for row in distances_csv_reader:
         if top_line:
             top_line = False
         else:
