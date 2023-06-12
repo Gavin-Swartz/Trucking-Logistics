@@ -20,9 +20,12 @@ with open('distances.csv') as distances_file:
     distances_csv_reader = csv.reader(distances_file, delimiter=',')
     top_line = True
 
-    for row in distances_csv_reader:
-        if top_line:
-            top_line = False
-        else:
-            if start_locations[0] in row[0] and end_locations[0] in row[1]:
-                print(row[2])
+    route_stretches_index = 0
+    while route_stretches_index < len(start_locations):
+        for row in distances_csv_reader:
+            if top_line:
+                top_line = False
+            else:
+                if start_locations[route_stretches_index] in row[0] and end_locations[route_stretches_index] in row[1]:
+                    print(row[0], 'to', row[1], 'is', row[2], 'miles')
+                    route_stretches_index += 1
