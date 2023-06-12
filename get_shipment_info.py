@@ -22,10 +22,13 @@ with open('distances.csv') as distances_file:
 
     route_stretches_index = 0   # Increases to match index of the route stretch
     while route_stretches_index < len(start_locations):
-        for rows in distances_csv_reader:
-            if top_line:
-                top_line = False
-            elif start_locations[route_stretches_index] in rows[0] and end_locations[route_stretches_index] in rows[1]:
-                print(rows[0], 'to', rows[1], 'is', rows[2], 'miles')
-                route_stretches_index += 1
+        for routes in start_locations:
+            for rows in distances_csv_reader:
+                if top_line:
+                    top_line = False
+                elif start_locations[route_stretches_index] in rows[0] and end_locations[route_stretches_index] in \
+                        rows[1]:
+                    print(rows[0], 'to', rows[1], 'is', rows[2], 'miles')
+                    route_stretches_index += 1
+                    break
         break
