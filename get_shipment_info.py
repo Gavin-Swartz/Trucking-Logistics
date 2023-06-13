@@ -15,6 +15,15 @@ with open('shipments.csv') as shipments_file:
             start_locations.append(rows[0])
             end_locations.append(rows[1])
 
+# Add routes to fill in between shipments
+route_index = 0
+while route_index < len(start_locations):
+    for start in start_locations:
+        if start == end_locations[route_index+1]:
+            pass
+        else:
+            pass
+
 # Get distances of each shipment
 top_line = True
 route_stretches_index = 0  # Increases to match index of the route stretch
