@@ -17,12 +17,12 @@ with open('shipments.csv') as shipments_file:
 
 # Add routes to fill in between shipments
 route_index = 0
-while route_index < len(start_locations):
-    for start in start_locations:
-        if start == end_locations[route_index+1]:
-            pass
-        else:
-            pass
+while route_index < len(start_locations)-1:
+    if end_locations[route_index] == start_locations[route_index+1]:
+        print('Match')
+    else:
+        print('Does not match')
+    route_index += 1
 
 # Get distances of each shipment
 top_line = True
